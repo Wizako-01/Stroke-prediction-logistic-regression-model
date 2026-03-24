@@ -1,2 +1,2 @@
 # Stroke-prediction-logistic-regression-model
-Model for stroke prediciton
+Model for stroke prediction
