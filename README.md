@@ -34,7 +34,7 @@ I tested two models:
 - Used class balancing
 - Much better at detecting stroke cases
 
-👉 I chose Logistic Regression as the final model.
+ Used Logistic Regression as the final model.
 
 ---
 
